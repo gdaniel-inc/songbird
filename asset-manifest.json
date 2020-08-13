@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4dd1d121.chunk.css",
+    "main.js": "/static/js/main.e66ebf77.chunk.js",
+    "main.js.map": "/static/js/main.e66ebf77.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3ffde9c1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3ffde9c1.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fa89f1ea.chunk.js": "/static/js/2.fa89f1ea.chunk.js",
+    "static/js/2.fa89f1ea.chunk.js.map": "/static/js/2.fa89f1ea.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a94c9d20caa4667bf73b48661d173fc6.js": "/precache-manifest.a94c9d20caa4667bf73b48661d173fc6.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.4dd1d121.chunk.css.map": "/static/css/main.4dd1d121.chunk.css.map",
+    "static/js/2.fa89f1ea.chunk.js.LICENSE.txt": "/static/js/2.fa89f1ea.chunk.js.LICENSE.txt",
+    "static/media/no-name-animals.png": "/static/media/no-name-animals.2de2ffb0.png",
+    "static/media/songanimal-logo.png": "/static/media/songanimal-logo.feccf697.png",
+    "static/media/sound-right.mp3": "/static/media/sound-right.f87ce96b.mp3",
+    "static/media/sound-wrong.mp3": "/static/media/sound-wrong.3e8db215.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ffde9c1.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.fa89f1ea.chunk.js",
+    "static/css/main.4dd1d121.chunk.css",
+    "static/js/main.e66ebf77.chunk.js"
+  ]
+}
